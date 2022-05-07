@@ -1,0 +1,11 @@
+.Not-found-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .img-not-found{
+    width: 50%;
+    margin: 0;
+    padding: 0;
+  }
+}
